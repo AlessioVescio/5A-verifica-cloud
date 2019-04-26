@@ -58,7 +58,7 @@ Punti progetto:
 
 Punti AWS (_vedi sezione precedente per accesso e configurazione_):
 - [ ] **nuova** istanza su AWS creata (dovete crearne una nuova!)
-- [ ] istanza configurata correttamente con docker e git
+- [X] istanza configurata correttamente con docker e git
 - [ ] istanza con gruppi di sicurezza corretti
 - [ ] istanza con il proprio progetto scaricato
 - [ ] istanza con il web server running
